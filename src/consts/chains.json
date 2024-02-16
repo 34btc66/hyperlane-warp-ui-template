@@ -1,1 +1,10 @@
-{}
+{
+  "scrollsepolia": {
+    "router": "0x66847D35cba3fF59f41F7fdFf6B062631a27cdF3",
+    "tokenType": "native"
+  },
+  "sepolia": {
+    "router": "0x90e906E05405F04A50819FcDDf0b4e154a9b0B1c",
+    "tokenType": "synthetic"
+  }
+}
